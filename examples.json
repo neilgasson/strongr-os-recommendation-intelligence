@@ -1,0 +1,77 @@
+[
+  {
+    "id": "evidence-1",
+    "label": "Lower relative engagement context",
+    "source": "Accepted FINAL_DEMO_EXAMPLES.csv, matched to complete DEV features by its published score.",
+    "inputs": {
+      "candidate_set_size": 59.0,
+      "history_length": 8.0,
+      "prior_category_count": 0.0,
+      "prior_subcategory_count": 0.0,
+      "category_affinity": 0.0,
+      "subcategory_affinity": 0.0,
+      "most_recent_category_match": 0.0,
+      "most_recent_subcategory_match": 0.0,
+      "hour": 0.0,
+      "title_length": 78.0,
+      "abstract_length": 279.0,
+      "abstract_missing": 0.0,
+      "short_or_cold_history": 0.0,
+      "candidate_category": "news",
+      "candidate_subcategory": "newsworld",
+      "day_of_week": "Friday",
+      "reference_logistic_score": 0.016692873156125464,
+      "reference_clicked": 0
+    }
+  },
+  {
+    "id": "evidence-2",
+    "label": "Typical engagement context",
+    "source": "Accepted FINAL_DEMO_EXAMPLES.csv, matched to complete DEV features by its published score.",
+    "inputs": {
+      "candidate_set_size": 34.0,
+      "history_length": 65.0,
+      "prior_category_count": 24.0,
+      "prior_subcategory_count": 2.0,
+      "category_affinity": 0.3692307692307692,
+      "subcategory_affinity": 0.0307692307692307,
+      "most_recent_category_match": 1.0,
+      "most_recent_subcategory_match": 0.0,
+      "hour": 3.0,
+      "title_length": 82.0,
+      "abstract_length": 152.0,
+      "abstract_missing": 0.0,
+      "short_or_cold_history": 0.0,
+      "candidate_category": "news",
+      "candidate_subcategory": "newspolitics",
+      "day_of_week": "Friday",
+      "reference_logistic_score": 0.04012670446771131,
+      "reference_clicked": 0
+    }
+  },
+  {
+    "id": "evidence-3",
+    "label": "Higher relative engagement context",
+    "source": "Accepted FINAL_DEMO_EXAMPLES.csv, matched to complete DEV features by its published score.",
+    "inputs": {
+      "candidate_set_size": 59.0,
+      "history_length": 8.0,
+      "prior_category_count": 6.0,
+      "prior_subcategory_count": 5.0,
+      "category_affinity": 0.75,
+      "subcategory_affinity": 0.625,
+      "most_recent_category_match": 1.0,
+      "most_recent_subcategory_match": 1.0,
+      "hour": 0.0,
+      "title_length": 57.0,
+      "abstract_length": 72.0,
+      "abstract_missing": 0.0,
+      "short_or_cold_history": 0.0,
+      "candidate_category": "sports",
+      "candidate_subcategory": "football_ncaa",
+      "day_of_week": "Friday",
+      "reference_logistic_score": 0.17850877439966475,
+      "reference_clicked": 0
+    }
+  }
+]
